@@ -99,7 +99,7 @@ void nilai() {
     int n;
     n = 5;
     // output dimana n = 5
-    printf("Bilangan Fibonacci ke-%d (iteratif): %d\n", n, fibonacci_iteratif(n));
+    printf("\n\nBilangan Fibonacci ke-%d (iteratif): %d\n", n, fibonacci_iteratif(n));
     printf("Bilangan Fibonacci ke-%d (rekursif): %d\n\n", n, fibonacci_rekursif(n));
 
     n = 20;
